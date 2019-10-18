@@ -9,7 +9,7 @@ name: Steady
 description: Steady Group
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/palp.jpg
+avatar: /images/palp.jpg
 
 #
 # Flags below are optional
