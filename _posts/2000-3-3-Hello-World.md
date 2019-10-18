@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello world
+title: Ready
 ---
 
-Hahaha fresh meat.  
+Steady Go.
